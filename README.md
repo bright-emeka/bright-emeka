@@ -8,6 +8,7 @@
 - 📫 How to reach me: WhatsApp: +2349151045789
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love Engineering
+- [![WhatsApp](https://shields.io)](https://wa.me/2349151045789)
 
 <!--
 **bright-emeka/bright-emeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
