@@ -5,11 +5,10 @@
 - 👯 I’m looking to collaborate on a lot of backend heavy projects
 - 🤔 I’m looking for help with building career 
 - 💬 Ask me about anything 
-- 📫 How to reach me: [![WhatsApp](https://shields.io)](https://wa.me/2349151045789)
+- 📫 How to reach me: [WhatsApp](https://wa.me/2349151045789)
 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love Engineering
-- [![WhatsApp](https://shields.io)](https://wa.me/2349151045789)
 
 <!--
 **bright-emeka/bright-emeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
