@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am a Full Stack Developer with confident experience building products across the entire stack — from database design and API architecture to polished, responsive frontends.👋
 
 - 🔭 I’m currently working on Faith Buddies a social media app that has an embedded ai chat and connects people of all faith and beliefs together
 - 🌱 I’m currently learning Depth Fullstack Engineering
