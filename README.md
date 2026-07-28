@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with building career 
 - 💬 Ask me about anything 
 - 📫 How to reach me: [WhatsApp](https://wa.me/2349151045789)
-
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love Engineering
 
