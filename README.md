@@ -51,11 +51,3 @@ Here are some ideas to get you started:
 
 
 # 🕷️ Spider Protocol
-
-The spider represents patience.
-
-Every thread is a line of code.
-
-Every web is a finished project.
-
-Every bug becomes another lesson.
