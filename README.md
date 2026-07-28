@@ -24,3 +24,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love Engineering
 -->
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,docker,linux"/>
+
+</p>
