@@ -1,4 +1,4 @@
-## Hi there I am a Full Stack Developer with confident experience building products across the entire stack — from database design and API architecture to polished, responsive frontends.👋
+## Full-Stack Software Engineer with a foundation in Mechatronics & Automation Engineering and extensive experience building, decoupling, and scaling web applications. Proficient across the entire development lifecycle, specializing in TypeScript, JavaScript (ES6+), React, Node.js, Express, and Python. Proven track record designing secure RESTful & GraphQL APIs, optimizing relational and NoSQL databases (MongoDB, PostgreSQL, Firebase), and managing cloud deployments (AWS, Docker, CI/CD pipelines). Adept at integrating AI models (OpenAI APIs), implementing microservices architectures, and applying systems engineering principles to deliver high-performance, maintainable enterprise software👋
 
 - 🔭 I’m currently working on Faith Buddies a social media app that has an embedded ai chat and connects people of all faith and beliefs together
 - 🌱 I’m currently learning Depth Fullstack Engineering
