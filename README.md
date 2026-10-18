@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Bright
 
-### Full-Stack Software Engineer | TypeScript • Python • Node.js • React • Cloud • AI • Distributed Systems
+### Full-Stack Software Engineer | TypeScript • Python • Node.js • React/Next.js • Cloud • AI • Distributed Systems
 
 Full-Stack Software Engineer with a foundation in **Mechatronics & Automation Engineering**, focused on building **secure, scalable, high-performance software systems** across the entire development lifecycle.
 
